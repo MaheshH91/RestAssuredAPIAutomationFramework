@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Data Driven Testing Using Json File">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.testautomation.apitesting.tests.DataDrivenTestingUsingJSONFile"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Data Driven Testing Using Json File -->

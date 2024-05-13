@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Data Driven Testing Using CSV File">
+  <test thread-count="5" name="CSV Test">
+    <classes>
+      <class name="com.testautomation.apitesting.tests.DataDrivenTestingUsingCSVFile"/>
+    </classes>
+  </test> <!-- CSV Test -->
+</suite> <!-- Data Driven Testing Using CSV File -->

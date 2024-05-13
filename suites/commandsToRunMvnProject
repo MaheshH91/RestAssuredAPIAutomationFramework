@@ -1,0 +1,6 @@
+mvn test -Dsuitefilename="./suites/restassuredapitest2.xml
+mvn test -Dsuitefilename="./suites/restassuredapitest.xml
+mvn test -Dsuitefilename="./suites/datadriventestingusingjson.xml"
+mvn test -Dsuitefilename="./suites/allurereportapitest.xml"
+C:\Laptop Data\Java JAN-2021\RestAssuredApitestingTutorials>mvn test -Dsuitefilename="./suites/allurereportapitest.xml"
+C:\Laptop Data\Java JAN-2021\RestAssuredApitestingTutorials>allure serve
